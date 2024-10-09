@@ -9,3 +9,5 @@ Microservices: https://www.youtube.com/playlist?list=PL3NrzZBjk6m_n8QZCdnF7Yax36
 How zomato handles 100M seaches daily: https://blog.zomato.com/explained-how-zomato-handles-100-million-daily-search-queries-p1
 
 The Engineering Behind High-Performance Ranking Platform: A System Overview https://medium.com/booking-com-development/the-engineering-behind-booking-coms-ranking-platform-a-system-overview-2fb222003ca6
+
+Multithreading Java: https://www.youtube.com/watch?v=4aYvLz4E1Ts&list=PLA3GkZPtsafY62QhQ030p85HAer0pFDdr&ab_channel=EngineeringDigest
