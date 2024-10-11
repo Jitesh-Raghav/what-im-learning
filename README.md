@@ -11,3 +11,5 @@ How zomato handles 100M seaches daily: https://blog.zomato.com/explained-how-zom
 The Engineering Behind High-Performance Ranking Platform: A System Overview https://medium.com/booking-com-development/the-engineering-behind-booking-coms-ranking-platform-a-system-overview-2fb222003ca6
 
 Multithreading Java: https://www.youtube.com/watch?v=4aYvLz4E1Ts&list=PLA3GkZPtsafY62QhQ030p85HAer0pFDdr&ab_channel=EngineeringDigest
+
+Tale of Scale-Zomato: https://blog.zomato.com/a-tale-of-scale-behind-the-scenes-at-zomato-tech-for-nye-2023
