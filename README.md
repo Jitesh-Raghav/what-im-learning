@@ -13,3 +13,5 @@ The Engineering Behind High-Performance Ranking Platform: A System Overview http
 Multithreading Java: https://www.youtube.com/watch?v=4aYvLz4E1Ts&list=PLA3GkZPtsafY62QhQ030p85HAer0pFDdr&ab_channel=EngineeringDigest
 
 Tale of Scale-Zomato: https://blog.zomato.com/a-tale-of-scale-behind-the-scenes-at-zomato-tech-for-nye-2023
+
+Java 8 : https://www.oracle.com/java/technologies/java8.html
