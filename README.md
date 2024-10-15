@@ -15,3 +15,5 @@ Multithreading Java: https://www.youtube.com/watch?v=4aYvLz4E1Ts&list=PLA3GkZPts
 Tale of Scale-Zomato: https://blog.zomato.com/a-tale-of-scale-behind-the-scenes-at-zomato-tech-for-nye-2023
 
 Java 8 : https://www.oracle.com/java/technologies/java8.html
+
+Monolith->Microservices : https://medium.com/agoda-engineering/leading-with-clients-our-journey-to-microservices-from-a-graphql-monolith-252b8baa69af
