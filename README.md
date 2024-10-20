@@ -19,3 +19,7 @@ Java 8 : https://www.oracle.com/java/technologies/java8.html
 Monolith->Microservices : https://medium.com/agoda-engineering/leading-with-clients-our-journey-to-microservices-from-a-graphql-monolith-252b8baa69af
 
 Avoiding single point of failures: https://blog.algomaster.io/p/system-design-how-to-avoid-single-point-of-failures
+
+Architecture of Kubernetes: https://www.youtube.com/watch?v=a-nWPre5QYI&ab_channel=PiyushGarg
+
+
