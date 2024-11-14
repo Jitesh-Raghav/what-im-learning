@@ -24,4 +24,5 @@ Architecture of Kubernetes: https://www.youtube.com/watch?v=a-nWPre5QYI&ab_chann
 
 Microservices Design Patterns: https://www.youtube.com/watch?v=l1OCmsBnQ3g&list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7&index=4&ab_channel=Concept%26%26Coding-byShrayansh
 
+Jest: https://www.youtube.com/watch?v=IPiUDhwnZxA&ab_channel=freeCodeCamp.org
 
