@@ -26,3 +26,5 @@ Microservices Design Patterns: https://www.youtube.com/watch?v=l1OCmsBnQ3g&list=
 
 Jest: https://www.youtube.com/watch?v=IPiUDhwnZxA&ab_channel=freeCodeCamp.org
 
+Next.js : https://nextjs.org/docs
+
