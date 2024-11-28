@@ -28,3 +28,5 @@ Jest: https://www.youtube.com/watch?v=IPiUDhwnZxA&ab_channel=freeCodeCamp.org
 
 Next.js : https://nextjs.org/docs
 
+Ffmpeg : https://ffmpeg.org/ffmpeg.html
+
