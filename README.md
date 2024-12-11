@@ -34,3 +34,5 @@ Ffmpeg : https://ffmpeg.org/ffmpeg.html
 
 Typescript : https://www.youtube.com/watch?v=F5pjG-sP0c8&t=2193s&ab_channel=Coder%27sGyan
 
+Creating a metaverse : https://www.blockchainx.tech/how-to-create-your-own-Metaverse-virtual-world
+
