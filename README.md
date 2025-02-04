@@ -37,3 +37,5 @@ Creating a metaverse : https://www.blockchainx.tech/how-to-create-your-own-Metav
 NodeJS : https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfPo
 
 Astro : https://www.youtube.com/watch?v=XRe560_vVF0
+
+System Design : https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b
