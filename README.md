@@ -39,3 +39,5 @@ NodeJS : https://www.youtube.com/playlist?list=PLinedj3B30sDby4Al-i13hQJGQoRQDfP
 Astro : https://www.youtube.com/watch?v=XRe560_vVF0
 
 System Design : https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b
+
+How LLMs work : https://www.youtube.com/watch?v=K45s2PgywvI&t=2136s
