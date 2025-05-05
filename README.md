@@ -28,8 +28,6 @@ Jest: https://www.youtube.com/watch?v=IPiUDhwnZxA&ab_channel=freeCodeCamp.org
 
 SAGA/CQRS Design Pattern : https://www.youtube.com/watch?v=qGlUKtjqaEQ&list=PL6W8uoQQ2c63W58rpNFDwdrBnq5G3EfT7&index=5
 
-Ffmpeg : https://ffmpeg.org/ffmpeg.html
-
 Typescript : https://www.youtube.com/watch?v=F5pjG-sP0c8&t=2193s&ab_channel=Coder%27sGyan
 
 Creating a metaverse : https://www.blockchainx.tech/how-to-create-your-own-Metaverse-virtual-world
