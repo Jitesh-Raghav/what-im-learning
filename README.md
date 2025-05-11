@@ -41,3 +41,5 @@ System Design : https://medium.com/@shivambhadani_/system-design-for-beginners-e
 How LLMs work : https://www.youtube.com/watch?v=K45s2PgywvI&t=2136s
 
 Websockets : https://www.youtube.com/watch?v=UUddpbgPEJM
+
+MCP servers: https://www.youtube.com/watch?v=vYelTr1uQmA&t=1496s
