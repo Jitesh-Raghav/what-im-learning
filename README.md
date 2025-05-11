@@ -43,3 +43,5 @@ How LLMs work : https://www.youtube.com/watch?v=K45s2PgywvI&t=2136s
 Websockets : https://www.youtube.com/watch?v=UUddpbgPEJM
 
 MCP servers: https://www.youtube.com/watch?v=vYelTr1uQmA&t=1496s
+
+A2A Protocol: https://youtu.be/tiNlTvpCKT8?si=9mTLk7ddub-yr50X
