@@ -45,3 +45,5 @@ Websockets : https://www.youtube.com/watch?v=UUddpbgPEJM
 MCP servers: https://www.youtube.com/watch?v=vYelTr1uQmA&t=1496s
 
 A2A Protocol: https://youtu.be/tiNlTvpCKT8?si=9mTLk7ddub-yr50X
+
+DP : https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
