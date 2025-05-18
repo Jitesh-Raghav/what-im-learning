@@ -49,3 +49,5 @@ A2A Protocol: https://youtu.be/tiNlTvpCKT8?si=9mTLk7ddub-yr50X
 DP : https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
 
 Typescript : https://www.youtube.com/watch?v=d56mG7DezGs&t=177s
+
+Java streams : https://youtu.be/E10Q6-nWO9g?si=1hwbQHtmAnX8CCMh
