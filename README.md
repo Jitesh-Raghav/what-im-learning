@@ -53,3 +53,5 @@ Typescript : https://www.youtube.com/watch?v=d56mG7DezGs&t=177s
 Java streams : https://youtu.be/E10Q6-nWO9g?si=1hwbQHtmAnX8CCMhz
 
 Shazam : https://youtu.be/a0CVCcb0RJM?si=xPaeD-sxrlXOOYOB
+
+Canva real time mouse pointer : https://www.canva.dev/blog/engineering/realtime-mouse-pointers/
