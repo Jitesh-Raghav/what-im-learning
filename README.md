@@ -57,3 +57,5 @@ Shazam : https://youtu.be/a0CVCcb0RJM?si=xPaeD-sxrlXOOYOB
 Canva real time mouse pointer : https://www.canva.dev/blog/engineering/realtime-mouse-pointers/
 
 Github nested search : https://github.blog/developer-skills/application-development/github-issues-search-now-supports-nested-queries-and-boolean-operators-heres-how-we-rebuilt-it/
+
+System design annotations : https://github.blog/engineering/user-experience/design-system-annotations-part-1-how-accessibility-gets-left-out-of-components/
