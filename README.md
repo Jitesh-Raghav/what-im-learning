@@ -59,3 +59,5 @@ Canva real time mouse pointer : https://www.canva.dev/blog/engineering/realtime-
 Github nested search : https://github.blog/developer-skills/application-development/github-issues-search-now-supports-nested-queries-and-boolean-operators-heres-how-we-rebuilt-it/
 
 System design annotations : https://github.blog/engineering/user-experience/design-system-annotations-part-1-how-accessibility-gets-left-out-of-components/
+
+How discord seamlessly upgraded millions of users to 64 bit architecture : https://discord.com/blog/how-discord-seamlessly-upgraded-millions-of-users-to-64-bit-architecture
