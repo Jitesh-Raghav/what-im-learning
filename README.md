@@ -61,3 +61,5 @@ Github nested search : https://github.blog/developer-skills/application-developm
 System design annotations : https://github.blog/engineering/user-experience/design-system-annotations-part-1-how-accessibility-gets-left-out-of-components/
 
 How discord seamlessly upgraded millions of users to 64 bit architecture : https://discord.com/blog/how-discord-seamlessly-upgraded-millions-of-users-to-64-bit-architecture
+
+Inngest : https://www.inngest.com/product/how-inngest-works
