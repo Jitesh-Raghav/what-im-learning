@@ -63,3 +63,5 @@ System design annotations : https://github.blog/engineering/user-experience/desi
 How discord seamlessly upgraded millions of users to 64 bit architecture : https://discord.com/blog/how-discord-seamlessly-upgraded-millions-of-users-to-64-bit-architecture
 
 Inngest : https://www.inngest.com/product/how-inngest-works
+
+Convex : https://docs.convex.dev/home
