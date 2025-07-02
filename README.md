@@ -65,3 +65,5 @@ How discord seamlessly upgraded millions of users to 64 bit architecture : https
 Inngest : https://www.inngest.com/product/how-inngest-works
 
 Convex : https://docs.convex.dev/home
+
+MCP Servers : https://modelcontextprotocol.io/introduction
