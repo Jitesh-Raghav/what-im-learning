@@ -67,3 +67,5 @@ Inngest : https://www.inngest.com/product/how-inngest-works
 Convex : https://docs.convex.dev/home
 
 MCP Servers : https://modelcontextprotocol.io/introduction
+
+Spring Boot Revise : https://www.youtube.com/watch?v=QQvlxcq6TDc&t=1173s
