@@ -69,3 +69,5 @@ Convex : https://docs.convex.dev/home
 MCP Servers : https://modelcontextprotocol.io/introduction
 
 Spring Boot Revise : https://www.youtube.com/watch?v=QQvlxcq6TDc&t=1173s
+
+Develop Kubernetes Operators in Java without Breaking a Sweat : https://www.docker.com/blog/develop-kubernetes-operators-in-java-without-breaking-a-sweat/
