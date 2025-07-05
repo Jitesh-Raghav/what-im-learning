@@ -73,3 +73,5 @@ Spring Boot Revise : https://www.youtube.com/watch?v=QQvlxcq6TDc&t=1173s
 Develop Kubernetes Operators in Java without Breaking a Sweat : https://www.docker.com/blog/develop-kubernetes-operators-in-java-without-breaking-a-sweat/
 
 How Github uses CodeQL : https://github.blog/engineering/how-github-uses-codeql-to-secure-github/
+
+How Agoda solved authorization at scale with OPA : https://medium.com/agoda-engineering/how-agoda-solved-authorization-at-scale-with-opa-66a04015191f
