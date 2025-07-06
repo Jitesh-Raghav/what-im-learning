@@ -75,3 +75,5 @@ Develop Kubernetes Operators in Java without Breaking a Sweat : https://www.dock
 How Github uses CodeQL : https://github.blog/engineering/how-github-uses-codeql-to-secure-github/
 
 How Agoda solved authorization at scale with OPA : https://medium.com/agoda-engineering/how-agoda-solved-authorization-at-scale-with-opa-66a04015191f
+
+Scaling- Part 1- Mental Models : https://medium.com/bbc-product-technology/scaling-part-1-mental-models-1b1945bd462f
