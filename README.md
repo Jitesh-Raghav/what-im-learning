@@ -79,3 +79,5 @@ How Agoda solved authorization at scale with OPA : https://medium.com/agoda-engi
 Scaling- Part 1- Mental Models : https://medium.com/bbc-product-technology/scaling-part-1-mental-models-1b1945bd462f
 
 How do RSS feeds work : https://rss.com/blog/how-do-rss-feeds-work/
+
+Engineering behind booking.com's ranking platform : https://medium.com/booking-com-development/the-engineering-behind-booking-coms-ranking-platform-a-system-overview-2fb222003ca6
