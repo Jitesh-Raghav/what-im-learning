@@ -81,3 +81,5 @@ Scaling- Part 1- Mental Models : https://medium.com/bbc-product-technology/scali
 How do RSS feeds work : https://rss.com/blog/how-do-rss-feeds-work/
 
 Engineering behind booking.com's ranking platform : https://medium.com/booking-com-development/the-engineering-behind-booking-coms-ranking-platform-a-system-overview-2fb222003ca6
+
+Building Algolia's Swagsearch : https://www.algolia.com/blog/engineering/building-swagsearch
