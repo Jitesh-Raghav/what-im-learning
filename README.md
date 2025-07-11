@@ -83,3 +83,5 @@ How do RSS feeds work : https://rss.com/blog/how-do-rss-feeds-work/
 Engineering behind booking.com's ranking platform : https://medium.com/booking-com-development/the-engineering-behind-booking-coms-ranking-platform-a-system-overview-2fb222003ca6
 
 Building Algolia's Swagsearch : https://www.algolia.com/blog/engineering/building-swagsearch
+
+Tinder's migration to ElasticSearch 8 : https://medium.com/tinder/tinders-migration-to-elasticsearch-8-1999748ed7f4
