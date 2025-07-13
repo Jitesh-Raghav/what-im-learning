@@ -87,3 +87,5 @@ Building Algolia's Swagsearch : https://www.algolia.com/blog/engineering/buildin
 Tinder's migration to ElasticSearch 8 : https://medium.com/tinder/tinders-migration-to-elasticsearch-8-1999748ed7f4
 
 Does High Click-through Rate Lead to High Conversion Rate : https://medium.com/expedia-group-tech/does-high-click-through-rate-lead-to-high-conversion-rate-890c6da28142
+
+Thundering herd jitter : https://medium.com/paypal-tech/thundering-herd-jitter-63a57b38919d
