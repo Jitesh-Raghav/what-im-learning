@@ -89,3 +89,5 @@ Tinder's migration to ElasticSearch 8 : https://medium.com/tinder/tinders-migrat
 Does High Click-through Rate Lead to High Conversion Rate : https://medium.com/expedia-group-tech/does-high-click-through-rate-lead-to-high-conversion-rate-890c6da28142
 
 Thundering herd jitter : https://medium.com/paypal-tech/thundering-herd-jitter-63a57b38919d
+
+Instacart search infrastructure : https://tech.instacart.com/how-instacart-built-a-modern-search-infrastructure-on-postgres-c528fa601d54
