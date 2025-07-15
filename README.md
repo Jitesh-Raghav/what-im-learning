@@ -91,3 +91,5 @@ Does High Click-through Rate Lead to High Conversion Rate : https://medium.com/e
 Thundering herd jitter : https://medium.com/paypal-tech/thundering-herd-jitter-63a57b38919d
 
 Instacart search infrastructure : https://tech.instacart.com/how-instacart-built-a-modern-search-infrastructure-on-postgres-c528fa601d54
+
+ESports trade issue : https://technology.riotgames.com/news/bug-blog-esports-trade-issue
