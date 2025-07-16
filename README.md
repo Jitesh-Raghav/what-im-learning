@@ -93,3 +93,5 @@ Thundering herd jitter : https://medium.com/paypal-tech/thundering-herd-jitter-6
 Instacart search infrastructure : https://tech.instacart.com/how-instacart-built-a-modern-search-infrastructure-on-postgres-c528fa601d54
 
 ESports trade issue : https://technology.riotgames.com/news/bug-blog-esports-trade-issue
+
+Maptiler 3D Globe javascript SDK : https://www.maptiler.com/news/2025/01/3d-globe-maps-using-a-javascript-sdk/
