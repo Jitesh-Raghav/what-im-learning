@@ -95,3 +95,5 @@ Instacart search infrastructure : https://tech.instacart.com/how-instacart-built
 ESports trade issue : https://technology.riotgames.com/news/bug-blog-esports-trade-issue
 
 Maptiler 3D Globe javascript SDK : https://www.maptiler.com/news/2025/01/3d-globe-maps-using-a-javascript-sdk/
+
+Builidng a resilient DNS client for web-scale infrastructure: https://www.linkedin.com/blog/engineering/infrastructure/building-a-resilient-dns-client-for-web-scale-infrastructure
