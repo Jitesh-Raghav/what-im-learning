@@ -99,3 +99,5 @@ Maptiler 3D Globe javascript SDK : https://www.maptiler.com/news/2025/01/3d-glob
 Builidng a resilient DNS client for web-scale infrastructure: https://www.linkedin.com/blog/engineering/infrastructure/building-a-resilient-dns-client-for-web-scale-infrastructure
 
 Avoiding Conway's Traps in Agility at Scale : https://blog.octo.com/duck-conf-2025-cr-dejouer-les-pieges-de-conway-dans-l'agilite-a-l'echelle
+
+Building Agents with OpenAI's SDK : https://blog.cloudflare.com/building-agents-with-openai-and-cloudflares-agents-sdk/
