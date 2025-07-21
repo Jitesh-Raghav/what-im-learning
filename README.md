@@ -101,3 +101,5 @@ Builidng a resilient DNS client for web-scale infrastructure: https://www.linked
 Avoiding Conway's Traps in Agility at Scale : https://blog.octo.com/duck-conf-2025-cr-dejouer-les-pieges-de-conway-dans-l'agilite-a-l'echelle
 
 Building Agents with OpenAI's SDK : https://blog.cloudflare.com/building-agents-with-openai-and-cloudflares-agents-sdk/
+
+Integrating live view and javascript : https://www.wyeworks.com/blog/2024/02/27/integrating-live-view-and-js/
