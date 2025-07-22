@@ -103,3 +103,5 @@ Avoiding Conway's Traps in Agility at Scale : https://blog.octo.com/duck-conf-20
 Building Agents with OpenAI's SDK : https://blog.cloudflare.com/building-agents-with-openai-and-cloudflares-agents-sdk/
 
 Integrating live view and javascript : https://www.wyeworks.com/blog/2024/02/27/integrating-live-view-and-js/
+
+How AOP can make our life easy using PostSharp: https://medium.com/justeattakeaway-tech/how-aop-can-make-our-life-easy-using-postsharp-c4ec31abe0a4
