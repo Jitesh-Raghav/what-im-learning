@@ -105,3 +105,5 @@ Building Agents with OpenAI's SDK : https://blog.cloudflare.com/building-agents-
 Integrating live view and javascript : https://www.wyeworks.com/blog/2024/02/27/integrating-live-view-and-js/
 
 How AOP can make our life easy using PostSharp: https://medium.com/justeattakeaway-tech/how-aop-can-make-our-life-easy-using-postsharp-c4ec31abe0a4
+
+How to apply design patterns in Golang : https://www.twilio.com/en-us/blog/developers/community/apply-design-patterns-golang
