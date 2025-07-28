@@ -109,3 +109,5 @@ How AOP can make our life easy using PostSharp: https://medium.com/justeattakeaw
 How to apply design patterns in Golang : https://www.twilio.com/en-us/blog/developers/community/apply-design-patterns-golang
 
 Test driven development: https://8thlight.com/insights/getting-started-tdd-practical-guide
+
+GraphQL JIT : https://deezer.io/graphql-jit-is-it-worth-it-64e66f21dbb8
