@@ -111,3 +111,5 @@ How to apply design patterns in Golang : https://www.twilio.com/en-us/blog/devel
 Test driven development: https://8thlight.com/insights/getting-started-tdd-practical-guide
 
 GraphQL JIT : https://deezer.io/graphql-jit-is-it-worth-it-64e66f21dbb8
+
+A Higgs-bugson in the Linux Kernel : https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/
