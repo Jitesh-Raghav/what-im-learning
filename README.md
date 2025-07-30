@@ -113,3 +113,5 @@ Test driven development: https://8thlight.com/insights/getting-started-tdd-pract
 GraphQL JIT : https://deezer.io/graphql-jit-is-it-worth-it-64e66f21dbb8
 
 A Higgs-bugson in the Linux Kernel : https://blog.janestreet.com/a-higgs-bugson-in-the-linux-kernel/
+
+How to standardise lambda deployments : https://eng.wealthfront.com/2025/06/23/how-we-standardized-our-lambda-deployments/
