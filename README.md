@@ -120,3 +120,5 @@ Eliminating bottlenecks in real time data streaming : https://blog.zomato.com/el
 
 Scaling datastores : https://engblog.nextdoor.com/scaling-nextdoors-datastores-part-1-234d0cf67665
 
+Common redux saga patterns : https://engineering.universe.com/common-patterns-with-redux-saga-ed68f89dfecf
+
