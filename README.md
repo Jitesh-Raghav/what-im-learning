@@ -123,3 +123,5 @@ Scaling datastores : https://engblog.nextdoor.com/scaling-nextdoors-datastores-p
 Common redux saga patterns : https://engineering.universe.com/common-patterns-with-redux-saga-ed68f89dfecf
 
 Embracing shift left testing wiht local preview : https://blog.zomato.com/embracing-shift-left-testing-with-local-preview
+
+Building next gen job search @LinkedIn : https://www.linkedin.com/blog/engineering/ai/building-the-next-generation-of-job-search-at-linkedin
