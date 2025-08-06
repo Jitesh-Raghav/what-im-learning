@@ -125,3 +125,5 @@ Common redux saga patterns : https://engineering.universe.com/common-patterns-wi
 Embracing shift left testing wiht local preview : https://blog.zomato.com/embracing-shift-left-testing-with-local-preview
 
 Building next gen job search @LinkedIn : https://www.linkedin.com/blog/engineering/ai/building-the-next-generation-of-job-search-at-linkedin
+
+Json serialisation : https://medium.com/justeattakeaway-tech/json-serialization-libraries-performance-tests-b54cbb3cccbb
