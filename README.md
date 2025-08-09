@@ -129,3 +129,5 @@ Building next gen job search @LinkedIn : https://www.linkedin.com/blog/engineeri
 Json serialisation : https://medium.com/justeattakeaway-tech/json-serialization-libraries-performance-tests-b54cbb3cccbb
 
 AWS Aurora DB : https://advancedweb.hu/a-first-look-into-awss-new-aurora-dsql-database/
+
+GPT 5 : https://blog.risingstack.com/gpt%e2%80%915-openais-latest-model-open-releases-and-first-reactions/
