@@ -133,3 +133,5 @@ AWS Aurora DB : https://advancedweb.hu/a-first-look-into-awss-new-aurora-dsql-da
 GPT 5 : https://blog.risingstack.com/gpt%e2%80%915-openais-latest-model-open-releases-and-first-reactions/
 
 Builing an enterprise intellij plugin : https://eng.lyft.com/building-an-enterprise-intellij-plugin-for-android-developers-e265c0038203
+
+How discord indexes trillions of messages : https://discord.com/blog/how-discord-indexes-trillions-of-messages
