@@ -137,3 +137,5 @@ Builing an enterprise intellij plugin : https://eng.lyft.com/building-an-enterpr
 How discord indexes trillions of messages : https://discord.com/blog/how-discord-indexes-trillions-of-messages
 
 Instagram Quality Content : https://instagram-engineering.com/five-things-i-learned-about-working-on-content-quality-at-instagram-5031b1342bea
+
+Architecture of apache hbase balancer : https://blog.flipkart.tech/architecture-of-apache-hbase-balancer-337134a3895d
