@@ -139,3 +139,5 @@ How discord indexes trillions of messages : https://discord.com/blog/how-discord
 Instagram Quality Content : https://instagram-engineering.com/five-things-i-learned-about-working-on-content-quality-at-instagram-5031b1342bea
 
 Architecture of apache hbase balancer : https://blog.flipkart.tech/architecture-of-apache-hbase-balancer-337134a3895d
+
+Patterns in Infra As Code : https://blog.octo.com/des-patterns-en-infra-as-code
