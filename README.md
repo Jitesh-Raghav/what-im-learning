@@ -141,3 +141,5 @@ Instagram Quality Content : https://instagram-engineering.com/five-things-i-lear
 Architecture of apache hbase balancer : https://blog.flipkart.tech/architecture-of-apache-hbase-balancer-337134a3895d
 
 Patterns in Infra As Code : https://blog.octo.com/des-patterns-en-infra-as-code
+
+Solving dispatch in ride sharing : https://eng.lyft.com/solving-dispatch-in-a-ridesharing-problem-space-821d9606c3ff
