@@ -143,3 +143,5 @@ Architecture of apache hbase balancer : https://blog.flipkart.tech/architecture-
 Patterns in Infra As Code : https://blog.octo.com/des-patterns-en-infra-as-code
 
 Solving dispatch in ride sharing : https://eng.lyft.com/solving-dispatch-in-a-ridesharing-problem-space-821d9606c3ff
+
+JS named args pattern : https://getaround.tech/javascript-named-arguments-pattern/
