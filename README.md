@@ -145,3 +145,5 @@ Patterns in Infra As Code : https://blog.octo.com/des-patterns-en-infra-as-code
 Solving dispatch in ride sharing : https://eng.lyft.com/solving-dispatch-in-a-ridesharing-problem-space-821d9606c3ff
 
 JS named args pattern : https://getaround.tech/javascript-named-arguments-pattern/
+
+Billion search scale : https://vinted.engineering/2025/01/10/1-billion-items-in-search/
