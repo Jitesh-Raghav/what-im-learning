@@ -149,3 +149,5 @@ JS named args pattern : https://getaround.tech/javascript-named-arguments-patter
 Billion search scale : https://vinted.engineering/2025/01/10/1-billion-items-in-search/
 
 Cherry picking with git : https://kolosek.com/cherry-picking-with-git
+
+Java 21, Structured concurrency : https://blog.avenuecode.com/java-21-structured-concurrency-powering-data-orchestration-with-virtual-threads-and-scopes
