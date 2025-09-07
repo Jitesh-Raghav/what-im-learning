@@ -151,3 +151,5 @@ Billion search scale : https://vinted.engineering/2025/01/10/1-billion-items-in-
 Cherry picking with git : https://kolosek.com/cherry-picking-with-git
 
 Java 21, Structured concurrency : https://blog.avenuecode.com/java-21-structured-concurrency-powering-data-orchestration-with-virtual-threads-and-scopes
+
+Reducing microservices latency : https://medium.com/thumbtack-engineering/lowering-microservice-latency-a-tale-of-misinterpreted-percentiles-a9997cbb58a4
