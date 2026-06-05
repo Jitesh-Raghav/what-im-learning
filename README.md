@@ -152,6 +152,8 @@ Cherry picking with git : https://kolosek.com/cherry-picking-with-git
 
 Java 21, Structured concurrency : https://blog.avenuecode.com/java-21-structured-concurrency-powering-data-orchestration-with-virtual-threads-and-scopes
 
+Recursive self developing AI : https://www.anthropic.com/institute/recursive-self-improvement
+
 Reducing microservices latency : https://medium.com/thumbtack-engineering/lowering-microservice-latency-a-tale-of-misinterpreted-percentiles-a9997cbb58a4
 
 Exif data manipulation js : https://getaround.tech/exif-data-manipulation-javascript/
