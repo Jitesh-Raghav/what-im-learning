@@ -162,3 +162,4 @@ Exif data manipulation js : https://getaround.tech/exif-data-manipulation-javasc
 
 DB Backups : https://eng.wealthfront.com/2025/06/02/in-a-snap-turbo-charging-our-database-backups/
 
+Microservices service discovery : https://medium.com/cloud-native-daily/microservices-patterns-part-03-service-discovery-patterns-97d603b9a510
